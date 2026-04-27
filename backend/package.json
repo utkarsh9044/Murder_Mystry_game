@@ -1,6 +1,7 @@
 {
   "name": "murder-mystery-backend",
   "version": "1.0.0",
+  "author": "Utkar",
   "private": true,
   "type": "module",
   "main": "app.js",
